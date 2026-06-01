@@ -1,16 +1,28 @@
 ## Hi there 👋
 
+<h1 align="center"> Hey there 👋</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Poorna;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
+## 🙋‍♂️ About Me
+I'm Poorna Kumar Ravipati, from india
+
+- 🚀 I'm working as a Devops Engineer
+
 <!--
-**iam-rpoorna18/iam-rpoorna18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📊 I’m currently teaching Kubernetes and everything related to Cloud/DevOps
+- ⚡ In my free time, I help with the CloudOps community and create YouTube tutorials
 -->
+
+
+## 🛠️ Language and Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes)
